@@ -31,4 +31,17 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Continuous Delivery Key Principles
 - Continuous Delivery Practices 
 - Tools of Continuous Delivery (CD)
-
+### Implementing Pipelines with Tekton
+- Introduction to Tekton and Pipelines
+- Building a Tekton Pipeline
+- Lab 3a: Building a Tekton Pipeline
+- Creating Tekton Triggers
+- Lab 3b: Adding GitHub Triggers
+- Leveraging the Tekton Catalog
+- Lab 3c: Use Tekton Continuous Delivery (CD) Catalog
+- Creating Tasks for Quality Checks and Testing
+- Lab 3d:Integrating Unit Test Automation
+- Building an Image
+- Lab 3e: Hands-on Lab: Building an Image
+- Deploying to Kubernetes 
+- Lab 3f: Deploy to Kubernetes/OpenShift 
