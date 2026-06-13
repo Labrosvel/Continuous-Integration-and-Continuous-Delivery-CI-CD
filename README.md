@@ -22,4 +22,4 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Lab 2a:Using GitHub Actions (Part1)
 - Deeper Dive into GitHub Actions (Part1): Event, Jobs
 - Lab 2b: Using GitHub Actions - Part2
-- Deeper Dive into GitHub Actions: Part2
+- Deeper Dive into GitHub Actions (Part2): Runner, Service, Step, Action
