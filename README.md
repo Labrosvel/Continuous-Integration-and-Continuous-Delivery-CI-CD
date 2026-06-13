@@ -18,7 +18,7 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Tools of Continuous Integration (CI): Jenkins, Circle CI, Travis CI
 ### Implementing Continuous Integration (CI)
 - GitHub - Getting Started
-- Introduction to GitHub Actions: Event, Runner, Jobs, Steps, Actions
+- Introduction to GitHub Actions:
 - Lab 2a:Using GitHub Actions - Part1
 - Deeper Dive into GitHub Actions: Part1
 - Lab 2b: Using GitHub Actions - Part2
