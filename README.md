@@ -16,5 +16,10 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Git Feature Branch Workflow: Working in Branches
 - Git Feature Branch Workflow: Making a Pull Request
 - Tools of Continuous Integration (CI): Jenkins, Circle CI, Travis CI
-
-
+### Implementing Continuous Integration (CI)
+- GitHub - Getting Started
+- Introduction to GitHub Actions
+- Lab 2a:Using GitHub Actions - Part 1
+- Deeper Dive into GitHub Actions: Part 1
+- Lab 2b: Using GitHub Actions - Part 2
+- Deeper Dive into GitHub Actions: Part 2
