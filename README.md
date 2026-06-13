@@ -15,6 +15,6 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Social Coding
 - Git Feature Branch Workflow: Working in Branches
 - Git Feature Branch Workflow: Making a Pull Request
-- Tools of Continuous Integration (CI)
+- Tools of Continuous Integration (CI): Jenkins, Circle CI, Travis CI
 
 
