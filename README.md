@@ -39,7 +39,7 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Lab 3b: Adding GitHub Triggers
 - Leveraging the Tekton Catalog
 - Lab 3c: Use Tekton Continuous Delivery (CD) Catalog
-- Creating Tasks for Quality Checks and Testing
+- Creating Tasks for Quality Checks and Testing (also environment variables)
 - Lab 3d:Integrating Unit Test Automation
 - Building an Image
 - Lab 3e: Hands-on Lab: Building an Image
